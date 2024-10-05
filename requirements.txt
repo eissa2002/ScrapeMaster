@@ -1,0 +1,7 @@
+Python 3.x
+Chrome browser
+ChromeDriver (matching your Chrome version)
+Selenium
+BeautifulSoup (bs4)
+Tkinter (GUI)
+requests (Image downloads)
