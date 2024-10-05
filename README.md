@@ -109,4 +109,4 @@ This project is licensed under the MIT License.
 ---
 
 ### Screenshots
-![image](https://github.com/user-attachments/assets/e177a65c-5c8f-442f-8899-7254e2d920e3)
+![image](https://github.com/user-attachments/assets/7c669b0e-b50b-424d-9cec-94dbed24c0f2)
